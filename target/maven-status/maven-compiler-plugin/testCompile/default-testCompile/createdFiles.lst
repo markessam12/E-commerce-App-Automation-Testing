@@ -1,0 +1,3 @@
+org\example\stepDefs\Hooks.class
+org\example\stepDefs\RegistrationPageTester.class
+org\example\testRunner\TestRunner.class
